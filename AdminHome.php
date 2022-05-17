@@ -31,6 +31,7 @@
  <?php
          session_start();
 //for manager pages
+	  //SHAHAS IS HEREEEEEE ********************
          if(!isset($_SESSION['entered'])){
               header("Location: index.php");
             }
